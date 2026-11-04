@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trueforge.agifuturefoundation.org/sitemap.xml
